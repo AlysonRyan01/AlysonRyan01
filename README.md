@@ -24,25 +24,25 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
     align="left" 
     alt=".NET" 
     title="CSS"
-    height="30px" 
+    height="60px" 
     style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
+    src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    height="30px" 
+    height="60px" 
     style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+    src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" 
 />
 <img 
     align="left" 
-    alt="html"
+    alt="RestAPi"
     title="TypeScript" 
-    height="30px" 
+    height="60px" 
     style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+    src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)" 
 />
 <img 
     align="left" 
