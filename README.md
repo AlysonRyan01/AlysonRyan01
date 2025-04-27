@@ -12,11 +12,11 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="C#"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" 
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
 />
 <img 
     align="left" 
