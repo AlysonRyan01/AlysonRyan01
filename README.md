@@ -1,3 +1,3 @@
 ## 👩🏻‍💻 Olá, sou Alyson Ryan Ullirsch!
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor C# .NET FullStack`**
