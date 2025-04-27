@@ -24,8 +24,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
     title="CSS"
     height="30px" 
     style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-" 
+    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
 />
 <img 
     align="left" 
