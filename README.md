@@ -14,7 +14,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
     align="left" 
     alt="C#"
     title="HTML" 
-    width="60px" 
+    height="30px" 
     style="padding-right: 5px;" 
     src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
 />
