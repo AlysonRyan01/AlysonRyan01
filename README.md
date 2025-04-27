@@ -96,15 +96,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 
 ### 📊 Estatísticas
 
-<p>
-  [![card](https://github-readme-stats.vercel.app/api?username=AlysonRyan01&theme=tokyonight&show_icons=true)](https://github.com/AlysonRyan01/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=AlysonRyan01&theme=tokyonight&show_icons=true)](https://github.com/AlysonRyan01/github-readme-stats)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonRyan01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
 
