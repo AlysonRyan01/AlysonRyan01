@@ -16,7 +16,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
