@@ -6,7 +6,5 @@ Me chamo Alyson Ryan Ullirsch e sou um desenvolvedor apaixonado por tecnologia, 
 
 Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias modernas, como Azure, e sou entusiasta de boas práticas de desenvolvimento e versionamento de código, utilizando ferramentas como Git. Meu objetivo é colaborar em projetos desafiadores, que envolvem a construção de soluções de alto impacto, e contribuir com inovação no mundo da tecnologia.
 
-<div>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alysonullirsch8@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alysonullirsch8@gmail.com)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-ryan-ullirsch)
-</div>
