@@ -15,7 +15,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 <img 
     align="left" 
     alt="C#"
-    title="HTML" 
+    title="C#" 
     height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" 
@@ -23,7 +23,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 <img 
     align="left" 
     alt=".NET" 
-    title="CSS"
+    title=".NET"
     height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" 
@@ -39,7 +39,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 <img 
     align="left" 
     alt="RestAPi"
-    title="TypeScript" 
+    title="RestApi" 
     height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" 
@@ -47,7 +47,7 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 <img 
     align="left" 
     alt="Git"
-    title="React" 
+    title="Git" 
     height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" 
@@ -55,8 +55,8 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 <img 
     align="left" 
     alt="react" 
-    title="Next.js"
-    height="30px" 
+    title="react"
+    height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" 
 />
@@ -79,15 +79,15 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 <img 
     align="left" 
     alt="MySql" 
-    title="SASS"
-    height="30px" 
+    title="MySql"
+    height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" 
 />
 <img 
     align="left" 
     alt="Azure" 
-    title="PHP"
+    title="Azure"
     height="60px" 
     style="padding-right: 5px;" 
     src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" 
