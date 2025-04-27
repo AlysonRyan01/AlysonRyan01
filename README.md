@@ -20,19 +20,20 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
 />
 <img 
     align="left" 
-    alt="CSS" 
+    alt=".NET" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    height="30px" 
+    style="padding-right: 5px;" 
+    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    height="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
 />
 <img 
     align="left" 
