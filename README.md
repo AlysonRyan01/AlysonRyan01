@@ -94,8 +94,6 @@ Com 21 anos, venho me dedicando a aprimorar minhas habilidades em tecnologias mo
     src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" 
 />
 
----
-
 <br/>
 <br/>
 <br/>
