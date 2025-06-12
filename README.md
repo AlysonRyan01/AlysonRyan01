@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Alyson Ryan Ullirsch!
+## 🧑🏽‍💻 Alyson Ryan Ullirsch!
 
 **`Desenvolvedor C# .NET FullStack`**
 
