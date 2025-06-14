@@ -1,6 +1,6 @@
 ## 🧑🏽‍💻 Alyson Ryan Ullirsch!
 
-**`Desenvolvedor C# .NET FullStack`**
+**`Desenvolvedor C# .NET Backend`**
 
 Me chamo Alyson Ryan Ullirsch e sou um desenvolvedor apaixonado por tecnologia, com um foco especial em C# e ASP.NET Core para desenvolvimento de APIs e sistemas back-end. Tenho experiência no desenvolvimento de soluções escaláveis e eficientes, com forte conhecimento em Blazor WebAssembly para interfaces dinâmicas e SQL Server para gerenciamento de dados. Além disso, estou sempre buscando expandir meu conhecimento, com uma mentalidade voltada para a aprendizagem contínua e adaptação a novas tecnologias.
 
