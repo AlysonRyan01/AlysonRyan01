@@ -1,12 +1,10 @@
 ## 🧑🏽‍💻 Alyson Ryan Ullirsch!
 
-**`Desenvolvedor C# .NET Backend`**
+**`Desenvolvedor .NET`**
 
-Sou desenvolvedor backend com foco em C# e ASP.NET Core, especializado na criação de APIs e sistemas robustos. Tenho experiência prática com Blazor WebAssembly na construção de interfaces interativas e uso frequente de SQL Server no gerenciamento de dados.
+Desenvolvedor Full Stack com experiência em C#/.NET, Angular e Golang, atuando em sistemas ERP de grande porte e integrações assíncronas complexas (WMS, e-commerce, service bus). 
 
-Atualmente, aplico essas habilidades em projetos reais, sempre priorizando código limpo, arquitetura bem definida e uso eficiente de ferramentas como Git para versionamento. Também venho explorando recursos da Azure e outros serviços em nuvem, ampliando meu domínio técnico.
-
-Tenho 21 anos e estou em constante evolução, buscando aprender com cada projeto e contribuir com soluções simples, escaláveis e bem pensadas.
+Experiência em arquiteturas orientadas a eventos e Clean Architecture, com histórico de liderar migração de sistema legado para stack web moderna.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.alysonullirsch.com) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alysonullirsch8@gmail.com) &nbsp;
